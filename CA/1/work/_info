@@ -1,0 +1,338 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcomparator_11
+Z0 !s110 1710570137
+!i10b 1
+!s100 lF42]0hi3m70NN>CmP4o@3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEO6@TQWFAF_G<aICIgA9M1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/University/Term 4/Digital systems 2/CA/1
+Z4 w1710568565
+Z5 8G:/University/Term 4/Digital systems 2/CA/1/components.v
+Z6 FG:/University/Term 4/Digital systems 2/CA/1/components.v
+!i122 445
+L0 18 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1710570137.000000
+Z9 !s107 G:/University/Term 4/Digital systems 2/CA/1/components.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/components.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vcontroller
+R0
+!i10b 1
+!s100 ]6B=:5DV8WkVS32<Qzl`R0
+R1
+IjB4ekYa:<TTdhLlAj5WVO0
+R2
+R3
+w1710332892
+8G:/University/Term 4/Digital systems 2/CA/1/controller.v
+FG:/University/Term 4/Digital systems 2/CA/1/controller.v
+!i122 446
+L0 1 65
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/controller.v|
+!i113 1
+R11
+R12
+vcounter_4bit
+R0
+!i10b 1
+!s100 Z<2[PzOR;9eQdcR86?5Z^2
+R1
+IYkm7M00Og=RXeEJAKUOcV2
+R2
+R3
+R4
+R5
+R6
+!i122 445
+L0 1 16
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vdatapath
+R0
+!i10b 1
+!s100 8PFL1>Pg2?6U`f2f1heZU3
+R1
+ImL3N;Fa_SLU2QboNTZjUG2
+R2
+R3
+w1710343730
+8G:/University/Term 4/Digital systems 2/CA/1/datapath.v
+FG:/University/Term 4/Digital systems 2/CA/1/datapath.v
+!i122 447
+L0 1 55
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/datapath.v|
+!i113 1
+R11
+R12
+vdivider
+R0
+!i10b 1
+!s100 j9g1H<PFE8LZ0[CgfDkNQ0
+R1
+IG4JAd`3@Bn8OXHVAaZ5Q32
+R2
+R3
+w1710334225
+8G:/University/Term 4/Digital systems 2/CA/1/divider.v
+FG:/University/Term 4/Digital systems 2/CA/1/divider.v
+!i122 448
+L0 1 21
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/divider.v|
+!i113 1
+R11
+R12
+vdivider_TB
+R0
+!i10b 1
+!s100 IjnQ3GN_09GG_iM]`0`RM0
+R1
+IKSRNRC]HhbZhzG:E]Bz<a2
+R2
+R3
+w1710333733
+8G:/University/Term 4/Digital systems 2/CA/1/TB.v
+FG:/University/Term 4/Digital systems 2/CA/1/TB.v
+!i122 449
+Z13 L0 1 32
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/TB.v|
+!i113 1
+R11
+R12
+ndivider_@t@b
+vmux_2_to_1
+R0
+!i10b 1
+!s100 gY4G?@0mWaVE[0`g4;miz2
+R1
+Ioo`C]c;_B@[lP0j`D44i:0
+R2
+R3
+R4
+R5
+R6
+!i122 445
+L0 58 6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vregister_10
+R0
+!i10b 1
+!s100 m`b_l36jhHT0[1gl5;_3A0
+R1
+I1k@K6<HG63HbfXZS>n1052
+R2
+R3
+R4
+R5
+R6
+!i122 445
+L0 26 12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vregister_11
+R0
+!i10b 1
+!s100 ATa9;ZZLMZ^X18kUG5gQU1
+R1
+I7h[[_mbF2kJCNXX6URHcl3
+R2
+R3
+R4
+R5
+R6
+!i122 445
+L0 39 12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vsubtractor_11
+R0
+!i10b 1
+!s100 @[0YOdCc^MT?LHehh>NG73
+R1
+Ie3`2Ej=>WIMF_mcRALn372
+R2
+R3
+R4
+R5
+R6
+!i122 445
+L0 52 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vTB1
+R0
+!i10b 1
+!s100 KTcEEF=VRM0A=Tgi_7UF41
+R1
+I@H3]DePPhTnTi@aBAYa261
+R2
+R3
+w1710333874
+8G:/University/Term 4/Digital systems 2/CA/1/TB1.v
+FG:/University/Term 4/Digital systems 2/CA/1/TB1.v
+!i122 450
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/TB1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/TB1.v|
+!i113 1
+R11
+R12
+n@t@b1
+vTB_divbyzero
+R0
+!i10b 1
+!s100 SP`WkP1i`2]dZN:[<DPTU2
+R1
+ImJUfG1XmdHGm]d>PO_gK<1
+R2
+R3
+w1710333655
+8G:/University/Term 4/Digital systems 2/CA/1/TBdivbyzero.v
+FG:/University/Term 4/Digital systems 2/CA/1/TBdivbyzero.v
+!i122 451
+Z14 L0 1 25
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/TBdivbyzero.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/TBdivbyzero.v|
+!i113 1
+R11
+R12
+n@t@b_divbyzero
+vTB_ovf
+R0
+!i10b 1
+!s100 [QhVezK;3NVR=4I?EK[LU1
+R1
+I@Y;Dc[allT3X>`>=2gkoH1
+R2
+R3
+w1710333709
+8G:/University/Term 4/Digital systems 2/CA/1/TBovf.v
+FG:/University/Term 4/Digital systems 2/CA/1/TBovf.v
+!i122 452
+R14
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/TBovf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/TBovf.v|
+!i113 1
+R11
+R12
+n@t@b_ovf
+vTBplus
+!s110 1710570138
+!i10b 1
+!s100 ^a5JGH[XiNeCnAB9Qlhg[2
+R1
+IF<^>bYTh[U;;8YLSPiQaO1
+R2
+R3
+w1710334155
+8G:/University/Term 4/Digital systems 2/CA/1/TBplus.v
+FG:/University/Term 4/Digital systems 2/CA/1/TBplus.v
+!i122 453
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 G:/University/Term 4/Digital systems 2/CA/1/TBplus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/University/Term 4/Digital systems 2/CA/1/TBplus.v|
+!i113 1
+R11
+R12
+n@t@bplus

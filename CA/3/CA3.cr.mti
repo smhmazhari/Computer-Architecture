@@ -1,0 +1,101 @@
+{G:/University/Term 4/Digital systems 2/CA/3/RegisterFile.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/branching_controller.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/branching_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branching_controller
+
+Top level modules:
+	branching_controller
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/mux2to1.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/Imm_extender.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/Imm_extender.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imm_extender
+
+Top level modules:
+	Imm_extender
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/register32bit.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/register32bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register32bit
+-- Compiling module register32bitEN
+
+Top level modules:
+	register32bit
+	register32bitEN
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/ALU.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/mux4to1.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/controller.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/ALU_controller.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/ALU_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Controller
+
+Top level modules:
+	ALU_Controller
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/TB.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/Risc_V.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/Risc_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Risc_V
+
+Top level modules:
+	Risc_V
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/datapath.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/general_controller.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/general_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module general_controller
+
+Top level modules:
+	general_controller
+
+} {} {}} {G:/University/Term 4/Digital systems 2/CA/3/Memory.v} {1 {vlog -work work -stats=none {G:/University/Term 4/Digital systems 2/CA/3/Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}

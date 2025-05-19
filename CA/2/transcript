@@ -1,0 +1,88 @@
+# Compile of Adder32bit.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_controller.v was successful.
+# Compile of branching_controller.v was successful.
+# Compile of controller.v was successful.
+# Compile of Data_memory.v was successful.
+# Compile of datapath.v was successful.
+# Compile of general_controller.v was successful.
+# Compile of Imm_extender.v was successful.
+# Compile of Instruction_memory.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of mux4to1.v was successful.
+# Compile of register32bit.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Risc-V.v was successful.
+# Compile of TB.v was successful.
+# 16 compiles, 0 failed with no errors.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 19:11:28 on May 25,2024
+# Loading work.TB
+# Loading work.Risc_V
+# Loading work.controller
+# Loading work.general_controller
+# Loading work.ALU_Controller
+# Loading work.branching_controller
+# Loading work.datapath
+# Loading work.register32bit
+# Loading work.mux4to1
+# Loading work.Adder32bit
+# Loading work.mux2to1
+# Loading work.Imm_extender
+# Loading work.ALU
+# Loading work.Instruction_memory
+# Loading work.RegisterFile
+# Loading work.Data_memory
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:C:/mtitcl/vsim/qstructure.tc_:2478: ::QStructure::sort .main_pane.structure 2 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 2 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 2 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 2 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+run -all
+# ** Note: $stop    : G:/University/Term 4/Digital systems 2/CA/2/TB.v(12)
+#    Time: 1463 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at G:/University/Term 4/Digital systems 2/CA/2/TB.v line 12
+quit -sim
+# End time: 19:12:46 on May 25,2024, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 2
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 19:13:55 on May 25,2024
+# Loading work.TB
+# Loading work.Risc_V
+# Loading work.controller
+# Loading work.general_controller
+# Loading work.ALU_Controller
+# Loading work.branching_controller
+# Loading work.datapath
+# Loading work.register32bit
+# Loading work.mux4to1
+# Loading work.Adder32bit
+# Loading work.mux2to1
+# Loading work.Imm_extender
+# Loading work.ALU
+# Loading work.Instruction_memory
+# Loading work.RegisterFile
+# Loading work.Data_memory
+add wave -position insertpoint  \
+sim:/TB/CUT/DP/DM/N \
+sim:/TB/CUT/DP/DM/MemWrite \
+sim:/TB/CUT/DP/DM/clk \
+sim:/TB/CUT/DP/DM/mem_adr \
+sim:/TB/CUT/DP/DM/to_be_written_data \
+sim:/TB/CUT/DP/DM/read_data \
+sim:/TB/CUT/DP/DM/data_memory \
+sim:/TB/CUT/DP/DM/address
+# (vsim-4077) Logging very large object: /TB/CUT/DP/DM/data_memory
+add wave -position insertpoint  \
+sim:/TB/CUT/clk \
+sim:/TB/CUT/rst
+run -all
+# ** Note: $stop    : G:/University/Term 4/Digital systems 2/CA/2/TB.v(12)
+#    Time: 1463 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at G:/University/Term 4/Digital systems 2/CA/2/TB.v line 12
+# End time: 19:20:17 on May 25,2024, Elapsed time: 0:06:22
+# Errors: 0, Warnings: 1
